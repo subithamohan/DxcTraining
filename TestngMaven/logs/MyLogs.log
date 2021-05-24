@@ -1,0 +1,5 @@
+[TRACE] 2021-05-21 16:26:54.340 [main] Log4jdemo - Starting to trace
+[INFO ] 2021-05-21 16:26:54.386 [main] Log4jdemo - information
+[ERROR] 2021-05-21 16:26:54.386 [main] Log4jdemo - error
+[WARN ] 2021-05-21 16:26:54.386 [main] Log4jdemo - warning
+[FATAL] 2021-05-21 16:26:54.387 [main] Log4jdemo - fatal
